@@ -89,14 +89,14 @@ See the [open issues](https://github.com/VikaVP/frontend-test-vika/issues) for a
 
 <p align='center'>
   <span>
-      <image width="500" src='./screenshot/tes1.png' />
-      <image width="500" src='./screenshot/tes2.png' />
+      <image width="700" src='./screenshot/tes1.png' />
+      <image width="700" src='./screenshot/tes2.png' />
   </span>
 </p>
 <p align='center'>
   <span>
-        <image width="500" src='./screenshot/tes3.png' />
-      <image width="500" src='./screenshot/tes4.png' />
+        <image width="700" src='./screenshot/tes3.png' />
+      <image width="700" src='./screenshot/tes4.png' />
 
   </span>
 </p>
