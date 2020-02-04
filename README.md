@@ -42,6 +42,7 @@ This project is a project to meet the test to become a Frontend Developer at Gad
 - [Bootstrap](https://react-bootstrap.github.io/)
 - [React Hook](https://reactjs.org/docs/hooks-intro.html)
 - [React Context](https://reactjs.org/docs/context.html)
+ 
   <!-- GETTING STARTED -->
 
 ## Getting Started
@@ -86,6 +87,7 @@ npm install
 ## Demo
 
 See the [open issues](https://github.com/VikaVP/frontend-test-vika/issues) for a list of proposed features (and known issues).
+[Click Here to go to Demo website on netlify](https://frontend-test-vika.netlify.com)
 
 <p align='center'>
   <span>
